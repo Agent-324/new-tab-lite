@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "New Tab Lite",
+  "name": "new-tab-lite-darkmode",
   "version": "0.0.4",
   "author": "Ramkumar K R",
   "chrome_url_overrides" : {
